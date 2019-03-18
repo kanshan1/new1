@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4438" started-at="2019-03-18T01:32:04Z" finished-at="2019-03-18T01:32:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4438" started-at="2019-03-18T01:32:04Z" finished-at="2019-03-18T01:32:08Z">
+      <class name="jenkinsbat.a">
+        <test-method status="PASS" signature="baidu()[pri:0, instance:jenkinsbat.a@27082746]" name="baidu" duration-ms="4410" started-at="2019-03-18T09:32:04Z" finished-at="2019-03-18T09:32:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baidu -->
+      </class> <!-- jenkinsbat.a -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
